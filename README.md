@@ -218,20 +218,35 @@ raspi-main
 
  
 1: .cpp
+
 2: .rb
+
 3: .py
+
 4: .json 
+
 5: .sh
+
 6: .bat
+
 7: .exe ( still working )
+
 8: .db
+
 9: .mp4
+
 10: .mp3
+
 11: .jpg
+
 12: .png
+
 13: .txt
+
 14: xml
+
 15: .css
+
 16: .html
 
 
@@ -244,5 +259,7 @@ all scripts in here are mine, all scripts used and imbedded are mine, all databa
  this propgram uses realistic male and female AI Voice, and has over 100+ files for responses to inputs and outputs for live sessions on network monitoring, i hope to release this soon | im considering not doing that since this is a very large project built around my personal needs and is way to much to change everything if i do i would say the release will be in december 5th 2021 
  
  1: stay at 127.0.0.1
- 2: wear a 255.255.255.0
- 3: :D love to all 
+
+2: wear a 255.255.255.0
+
+3: :D love to all 
