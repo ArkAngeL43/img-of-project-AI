@@ -11,12 +11,13 @@ and uses a shit ton of libraries
 
 this project isnt even halfway done, nor am i anywhere near comopleting it but here are a very small amount of the info 
 
-# abilities CURRENT AND OR AS OF NOW
+# abilities CURRENT AND OR ACTIVE OF NOW
 
 can launch my own made browser, start VPN, reboot, restart, update, upgrade, voice detect, shop, look online, scrape google for news, give weather, trace IP's, trace phone numbers, trace usernames, trace devices, send paylaods ( needs work ), load my website, send SMS, send calls, send floods, send http floods, send apache floods, send DEAUTH packets, load games, ping services, give net stats, system stats, disk stats, load and boot tests, network tests, automate proxychains and tor, eun SMTP servers, run system services EX TOR && POSTGRe| SQL, scan ports, search wiki, scrape websites, send discord messages, send and automate discord spam, send emails, recive and or traceback emails, send whatsapp, use my frameworks, git clone any repo from voice as well, and has full avalibility over win32/64 as there are batch installs and scripts to run through the main file, if you have alot of these services EX json, MySQL, python3, xml, c++, ruby, and more on windows this should work as the install file was tested however is still in development since im not to great at windows commands, also if you do run the setup or setup1 it will git clone all my repos and scripts since everything is used
 
 im also making calculator GUI, yoiutube downloaders, making kits for the dark browser i created, advancing projects, and doing a whole lot more, this project has well over exceeded 2 months, and has a current and idiotic 60,767 lines of code, since most scripts are built in and or automated, 
 
+MORE TO COME!!!!!!!
 
 |||||||||SIMPLE IMPORT LIST ||||||||||
 #### some are repeated
