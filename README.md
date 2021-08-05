@@ -9,81 +9,190 @@ and uses a shit ton of libraries
 
 |||||||||SIMPLE IMPORT LIST ||||||||||
 #### some are repeated
-import subprocess
-import wolframalpha
-import pyttsx3
-import tkinter
-import json
-import random
-import operator
-import speech_recognition as sr
-import datetime
-import wikipedia
-import webbrowser
-import pyjokes
-import feedparser
-import smtplib
-import ctypes
-import time
-import requests
-import shutil
-from twilio.rest import Client
-from clint.textui import progress
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-from platform import python_version
-import sys
-import asyncio
-import os
-import sys  
-import time
-from platform import python_version
-import asyncio
-import time 
-import datetime
-from datetime import time 
-from tkinter import *
-from tkinter.ttk import * #import all
-from time import strftime
-from pynput.keyboard import Key, Controller
-import requests
-import timeit
-from datetime import datetime
-import tqdm
-import webbrowser
-import urllib
-import python_weather
-from urllib.request import urlopen as open
-from platform import python_version
-import asyncio
-import time 
-import datetime
-from datetime import time 
-from tkinter import *
-from tkinter.ttk import * #import all
-from time import strftime
-from pynput.keyboard import Key, Controller
-import requests
-import timeit
-from datetime import datetime
-import tqdm
-import webbrowser
-import urllib
-import python_weather
-from urllib.request import urlopen as open
-import phonenumbers 
-import colorama 
-from phonenumbers import carrier 
-from phonenumbers import geocoder 
-from tabulate import tabulate
-from phonenumbers import timezone
-from colorama import Fore, Back, Style
-import socket
-from datetime import datetime
-from requests import get 
-from colorama import init 
-import termcolor
-from termcolor import colored
-import gtts  
-from gtts import gTTS  
-import time as t 
+
+
+subprocess
+
+wolframalpha
+
+pyttsx3
+
+tkinter
+
+json
+
+random
+
+operator
+
+speech_recognition as sr
+
+datetime
+
+wikipedia
+
+webbrowser
+
+pyjokes
+
+feedparser
+
+smtplib
+
+ctypes
+
+time
+
+requests
+
+shutil
+
+twilio.rest Client
+
+clint.textui progress
+
+bs4 BeautifulSoup
+
+urllib.request urlopen
+
+platform python_version
+
+sys
+
+asyncio
+
+os
+
+sys  
+
+time
+
+platform python_version
+
+asyncio
+
+time 
+
+datetime
+
+datetime time 
+
+tkinter *
+
+tkinter.ttk * #all
+
+time strftime
+
+pynput.keyboard Key, Controller
+
+requests
+
+timeit
+
+datetime datetime
+
+tqdm
+
+webbrowser
+
+urllib
+
+python_weather
+
+urllib.request urlopen as open
+
+platform python_version
+
+asyncio
+
+time 
+
+datetime
+
+datetime time 
+
+tkinter *
+
+tkinter.ttk * #all
+
+time strftime
+
+pynput.keyboard Key, Controller
+
+requests
+
+timeit
+
+datetime datetime
+
+tqdm
+
+webbrowser
+
+urllib
+
+python_weather
+
+urllib.request urlopen as open
+
+phonenumbers 
+
+colorama 
+
+phonenumbers carrier 
+
+phonenumbers geocoder 
+
+tabulate tabulate
+
+phonenumbers timezone
+
+colorama Fore, Back, Style
+
+socket
+
+datetime datetime
+
+requests get 
+
+colorama init 
+
+termcolor
+
+termcolor colored
+
+gtts  
+
+gtts gTTS  
+
+time as t 
+
+datetime datetime
+
+datetime *
+
+psutil
+
+pywhatkit as py
+
+main 
+
+port s
+
+port c
+
+port a
+
+evil-tracer 
+
+evil-scanner
+
+GHOSTED
+
+802.11-LAZYYY
+
+raspi
+
+raspiV-2
+
+raspi-main
